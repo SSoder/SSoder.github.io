@@ -1,0 +1,138 @@
+---
+layout: cv
+---
+{
+
+"basics": {
+
+"name": "Stefan Soder",
+
+"label": "Engineer, Analyst",
+
+"picture": "",
+
+"email": "sodersg@gmail.com",
+
+"phone": "(317) 696-6485",
+
+"website": "ssoder.github.io",
+
+"summary": "I moved to Cincinnati after earning his bachelor's degree in Mechanical Engineering from Purdue University's Indianapolis campus. I have been working as a mechanical engineer for three and a half years, and have discovered a passion for analytics and data science that drives me to pursue the field professionally.",
+
+"location": {
+
+"address": "2867 Erie Ave. #8",
+
+"postalCode": "45208",
+
+"city": "Cincinnati",
+
+"countryCode": "US",
+
+"region": "Ohio"
+
+},
+
+"profiles": []
+
+},
+
+"work": [
+
+{
+
+"company": "Powell Valves",
+
+"position": "Project Engineer",
+
+"website": "http://www.powellvalves.com/",
+
+"startDate": "11-2015",
+
+"endDate": "Present",
+
+"summary": "Powell Valves is a leading manufacturer of industrial valves, serving customers around the world in industries such as petro-chemical, industrial gas, pulp & paper, and chemical & mechanical construction",
+
+"highlights": [
+
+"- Led projects for infrastructure and capability improvements by coordinating with internal business units and external consultants to guide implementations of improved calculation software and data management systems.",
+
+"- Conducted individualized new employee training in coordination with Human Resources to ensure that new hires in any business unit were given requisite foundational knowledge of Powell Products and product catalogues.",
+
+"- Responsible for modeling and simulation of new and updated product and modification designs utilizing Autodesk Inventor, NASTRAN In-CAD, and custom coded solutions to ensure compliance with customer needs and relevant industry standards",
+
+"- Consistently and effectively communicate technical product information to internal non-technical departments as well as product distributors and end users to provide troubleshooting and engineered solutions."
+
+]
+
+},
+
+{
+
+"company": "Bosch Automotive Steering, LLC.",
+
+"position": "Quality Engineer",
+
+"website": "",
+
+"startDate": "09-2014",
+
+"endDate": "09-2015",
+
+"summary": "",
+
+"highlights": [
+
+"- Oversaw Part Production Approval Packages, PFMEAs, Control Plans, and Dimensional Reports",
+"- Collaborated with Process Engineers to monitor and improve process efficiency",
+"- Conducted audits to ensure product and process quality"
+]
+}
+],
+"volunteer": [],
+"education": [
+{
+"institution": "Purdue University",
+"area": "Mechanical Engineering",
+"studyType": "Bachelor of Science",
+"startDate": "08-2008",
+"endDate": "12-2013",
+"gpa": "",
+"courses": []
+}
+],
+"awards": [],
+"publications": [],
+"skills": [
+{
+"name": "Data Handling",
+"level": "",
+"keywords": [
+"Numpy",
+"Pandas",
+"SQL",
+"MS Access"
+]
+},
+{
+"name": "Data Visualization",
+"level": "",
+"keywords": [
+"Matplotlib/Seaborn",
+"Tableau"
+]
+},
+{
+"name": "Analysis",
+"level": "",
+"keywords": [
+"SKLearn",
+"MS Excel",
+""
+]
+}
+],
+"languages": [],
+"interests": [],
+"references": []
+}
