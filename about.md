@@ -5,8 +5,7 @@ image: /assets/images/Red_River_Gorge.jpg
 author:
   name: Stefan Soder
   email: sodersg@gmail.com
-  picture: /assets/images/headshot-resize.jpeg
-# image: /assets/images/ME_2018.jpg
+  picture: /assets/images/headshot-resize.jpg
 permalink: /about/
 ---
 
