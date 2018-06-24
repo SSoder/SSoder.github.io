@@ -18,44 +18,45 @@
   },
 "work": [
     {
-    "company": "Powell Valves",
+    "company": "William Powell Valve Co.",
     "position": "Project Engineer",
     "website": "http://www.powellvalves.com/",
-    "startDate": "11/2015",
+    "startDate": "Nov.2015",
     "endDate": "Present",
     "summary": "Powell Valves is a leading manufacturer of industrial valves, serving customers around the world in industries such as petro-chemical, industrial gas, pulp & paper, and chemical & mechanical construction",
     "highlights": [
     "Led projects for infrastructure and capability improvements by coordinating with internal business units and external consultants to guide implementations of improved calculation software and data management systems.",
     "Conducted individualized new employee training in coordination with Human Resources to ensure that new hires in any business unit were given requisite foundational knowledge of Powell Products and product catalogues.",
     "Responsible for modeling and simulation of new and updated product and modification designs utilizing Autodesk Inventor, NASTRAN In-CAD, and custom coded solutions to ensure compliance with customer needs and relevant industry standards",
-    "Consistently and effectively communicate technical product information to internal non-technical departments as well as product distributors and end users to provide troubleshooting and engineered solutions."
+    "Consistently and effectively communicate technical product information to internal non-technical departments as well as product distributors and end users to provide troubleshooting guidance and engineered solutions."
     ]
   },
   {
     "company": "Bosch Automotive Steering, LLC.",
     "position": "Quality Engineer",
     "website": "https://www.bosch.us/",
-    "startDate": "09/2014",
-    "endDate": "09/2015",
-    "summary": "",
+    "startDate": "Sept.2014",
+    "endDate": "Sept.2015",
+    "summary": "As a Quality Engineer with Bosch Automotive Steering, I oversaw QA/QC and Statistical Process Control for two part manufacturing lines, totalling 15 manufacturing/machining stations including broaching, heat treatment, straightening, and grinding operations.",
     "highlights": [
-    "Oversaw Part Production Approval Packages, PFMEAs, Control Plans, and Dimensional Reports",
-    "Collaborated with Process Engineers to monitor and improve process efficiency",
-    "Conducted audits to ensure product and process quality"
+      "Collected, cleaned, analyzed and presented time series data for process control and improvement.",
+      "Oversaw Part Production Approval Packages, PFMEAs, Control Plans, and Dimensional Reports",
+      "Collaborated with Process Engineers to monitor and improve process efficiency",
+      "Conducted audits to ensure product and process quality"
     ]
   },
   {
     "company": "Duke Energy",
     "position": "College Co-op",
     "website": "https://www.duke-energy.com/home",
-    "startDate": "08/2011",
-    "endDate": "08/2013",
-    "summary": "I worked for 4 semesters as a college co-op in the Duke Energy Midwest Generation Co-op program, gaining experience in plant operations,  regional business analytics/metrics, steam turbine systems, and environmental controls.",
+    "startDate": "Aug.2011",
+    "endDate": "Aug.2013",
+    "summary": "I worked for 4 semesters as a college co-op in the Duke Energy Midwest Generation Co-op program, gaining experience in plant operations,  regional business analytics/performance metrics, steam turbine systems, and environmental controls.",
     "highlights": [
-    "Edwardsport IGCC, Operations",
-    "Cincinnati, OH Corporate office, Midwest Measures and Metrics",
-    "Cincinnati, OH Corporate office, Operations support",
-    "Gibson Station, Dry Fly Ash project"
+      "Gibson Station, Major Environmental Projects",
+      "Cincinnati, OH; Fleet Consulting Services, Steam Turbine-Generator",
+      "Cincinnati, OH; Performance and Metrics",
+      "Edwardsport Integrated Gasification Combined Cycle plant, Operations"
     ]
   }
 ],
@@ -66,8 +67,6 @@
     "studyType": "Bachelor of Science",
     "startDate": "08-2008",
     "endDate": "12-2013",
-    "gpa": "",
-    "courses": []
   }
   ],
 "skills": [
@@ -91,7 +90,7 @@
       "MS Access/SQL Fundamentals",
       "MATLAB",
       "Tableau",
-      "Autodesk Inventor/Nastran In-Cad"
+      "Autodesk AutoCAD/Inventor/Nastran In-Cad"
     ]
     }
   ],
