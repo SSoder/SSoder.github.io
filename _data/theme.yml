@@ -19,14 +19,14 @@ t:
   present: "Present"
 
 google_fonts:
-  - name: "Fira Sans"
+  - name: "Arimo"
     weights: "400,400i,600,600i"
-  - name: "Fira Sans Condensed"
+  - name: "Lato"
 
 navigation_pages:
   - posts.md
   - recipes.md
   - about.md
-  - cv.md
+  - resume.md
   - tags.md
   - categories.md

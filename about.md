@@ -1,6 +1,11 @@
 ---
-layout: page
+layout: about
 title: About
+image: /assets/images/Red_River_Gorge.jpg
+author:
+  name: Stefan Soder
+  email: sodersg@gmail.com
+  picture: /assets/images/test_dragon.jpeg
 # image: /assets/images/ME_2018.jpg
 permalink: /about/
 ---
