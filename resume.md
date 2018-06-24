@@ -1,8 +1,8 @@
 ---
 title: Resume
 layout: cv
-author:
-  name: Stefan Soder
-  email: sodersg@gmail.com
-  picture: /assets/images/test_dragon.jpeg
+actions:
+  - label: "Download as PDF"
+    icon: PDF
+    url: "#pdf-asset"
 ---
