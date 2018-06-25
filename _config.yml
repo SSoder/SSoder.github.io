@@ -31,8 +31,19 @@ plugins:
   - jekyll-feed
   - jekyll-github-metadata
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      tableau: 'false'
 
-# repository: SSoder/tableau
+
+
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
