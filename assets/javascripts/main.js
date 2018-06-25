@@ -5,6 +5,13 @@
  * https://github.com/mmistakes/jekyll-basically-theme/blob/master/LICENSE.md
 */
 
+// Test to see if this will add Tableau API endpoint scriptElement
+function addScript() {
+  var s = document.createElement( 'script');
+  s.setAttribute('src', 'https://public.tableau.com/javascripts/api/tableau-2.min.js');
+  document.head.appendChild(s);
+}
+
 var menuItems = document.querySelectorAll('#sidebar li');
 
 // Get vendor transition property
@@ -68,13 +75,6 @@ function toggleClassSearch() {
   setTimeout(function () {
     document.querySelector('.search-content input').focus();
   }, 400);
-}
-
-// Test to see if this will add Tableau API endpoint scriptElement
-function addScript() {
-  var s = document.createElement( 'script');
-  s.setAttribute('src', 'https://public.tableau.com/javascripts/api/tableau-2.min.js');
-  document.head.appendChild(s);
 }
 
 /* Try to add a Tableau visualization embed
